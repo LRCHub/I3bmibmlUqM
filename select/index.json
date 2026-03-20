@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "『ピーターパン』 acoustic ver.",
+  "base_artist": "優里ちゃんねる【公式】",
+  "createdAt": "2026-03-20T11:53:17.548577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピーターパン",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/01_ピーターパン_優里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピーターパン",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/02_ピーターパン_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピーターパン",
+      "artist": "由里",
+      "has_synced": true,
+      "path": "select/03_ピーターパン_由里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "右から2番目の星(ピーターパン)",
+      "artist": "Saito Neko",
+      "has_synced": false,
+      "path": "select/04_右から2番目の星(ピーターパン)_Saito_Neko.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Peter Pan Syndrome ピーターパン・シンドローム",
+      "artist": "buzzG feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/05_Peter_Pan_Syndrome_ピーターパン・シンドローム_buzzG_feat._Hatsune_Miku.txt"
+    }
+  ]
+}
